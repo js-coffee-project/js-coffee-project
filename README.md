@@ -1,4 +1,4 @@
-# Coffee Project
+# Coffee Project - Search a List of Coffees or Add your Favorite Coffee to the List!
 
 Single-page web application developed using:
 
@@ -14,13 +14,13 @@ Programming language:
 Framework:
 - Bootstrap
 
-## Memo
+## Memo:
 
 Congratulations! You have landed your first development job! You have inherited
 a project from Fancy Coffee Company&copy;, and they want you to make
 improvements to it.
 
-## Setup
+## Setup:
 
 1. Create a Github organization and add your teammate.
 1. Fork this repository (Click on the "Fork" button on the top right of this
@@ -29,7 +29,7 @@ improvements to it.
 1. Open up the HTML file and check out the existing application.
 1. Read through the code and understand the existing code structure before you start to build the features.
 
-## TODO
+## TODO:
 
 - Update the HTML:
 
@@ -69,7 +69,7 @@ improvements to it.
     the styling shown in the example below can be achieved purely with bootstrap
     classes, that is, without custom CSS*).
 
-## Example
+## Example:
 
 Here is an example demonstrating the above functionality. Your application might
 look different, but should have the same features.
