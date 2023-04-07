@@ -1,4 +1,5 @@
 # Coffee Project - Search a List of Coffees or Add your Favorite Coffee to the List!
+## Codeup Pair Programming Project
 
 Single-page web application developed using:
 
